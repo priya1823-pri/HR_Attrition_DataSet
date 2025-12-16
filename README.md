@@ -103,3 +103,5 @@ Predictive modeling for attrition risk
 Drill-through pages for employee profiles
 
 Integration with live HRIS systems
+
+<img width="1305" height="730" alt="Image" src="https://github.com/user-attachments/assets/e33ab0be-7274-48f8-a706-799fd1381be2" />
