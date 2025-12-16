@@ -2,6 +2,9 @@
 
 📊 HR Attrition Analysis Report
 
+
+<img width="1305" height="730" alt="Image" src="https://github.com/user-attachments/assets/e33ab0be-7274-48f8-a706-799fd1381be2" />
+
 Overview
 
 This Power BI dashboard presents a detailed analysis of employee attrition across various dimensions such as department, job role, age group, gender, and seniority level. It is designed to help HR professionals identify patterns and take proactive measures to improve employee retention.
@@ -104,4 +107,3 @@ Drill-through pages for employee profiles
 
 Integration with live HRIS systems
 
-<img width="1305" height="730" alt="Image" src="https://github.com/user-attachments/assets/e33ab0be-7274-48f8-a706-799fd1381be2" />
